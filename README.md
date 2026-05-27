@@ -1,15 +1,17 @@
-- 👋 
-Hello! I'm Vetrivel, a passionate Electronics and Communication Engineering (ECE) graduate with a Bachelor's degree. I have had the incredible opportunity to grow and learn with Revature, where I honed my skills in cloud-based application development and deployment. My proficiency includes Python, SQL, GraphQL, Flask, and AWS, and I also have a basic understanding of C and C++.
-Skills and Expertise
-Cloud-Based Application Development and Deployment
-Python, SQL, GraphQL, Flask, AWS
+👋 Hello! I'm Vetrivel, an Electronics and Communication Engineering (ECE) graduate currently working as a Software Engineer with 3 years of professional experience in backend development and cloud-based solutions. Over the years, I’ve gained hands-on experience in building, managing, and optimizing scalable applications while continuously expanding my technical expertise.
+Skills & Expertise
+Backend Development with PHP and Python
+SQL, GraphQL, Flask
+AWS & Cloud-Based Application Deployment
+REST APIs, Authentication Systems, and Policy Management
 Basic knowledge of C and C++
-Strengths
-In addition to my technical skills, I possess strong critical thinking and analytical abilities, ensuring efficient problem-solving. My greatest strengths lie in teamwork and time management, which enable me to collaborate effectively and deliver projects on time.
-
-Interests and Passions
-Apart from my professional journey, I'm an avid anime lover, fascinated by its art, storytelling, and attention to detail. I also have a keen interest in Japanese culture, language, and traditions, with a long-standing dream to visit Japan for an immersive experience.
-
-Sports are an essential part of my life, and I actively seek opportunities to contribute to the sports community through my skills, experiences, and unwavering dedication.
-
-Thank you for visiting my GitHub repository. Feel free to explore my projects and contributions. If you have any questions or would like to collaborate, please don't hesitate to reach out! 🚀
+Professional Strengths
+I enjoy solving complex problems through analytical thinking and practical development approaches. My strengths include:
+Critical Thinking & Problem Solving
+Team Collaboration
+Time Management
+Writing scalable and maintainable backend logic
+Interests & Passions
+Beyond technology, I’m deeply passionate about anime and Japanese culture. I admire the creativity, storytelling, and artistic depth found in anime and hope to experience Japan’s culture and traditions firsthand someday.
+I’m also highly interested in sports and always motivated to contribute to communities and projects where technology and passion come together.
+Thank you for visiting my profile! Feel free to explore my projects, contributions, and ongoing learning journey. I’m always open to connecting, collaborating, and learning new technologies. 🚀
